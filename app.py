@@ -8,7 +8,7 @@ from src.visualization import plot_pca, plot_heatmap, plot_distributions, plot_b
 st.set_page_config(page_title="Urban Environmental Intelligence", layout="wide")
 
 st.title("Urban Environmental Intelligence Challenge")
-st.markdown("**Lead Data Architect:** Your Name | **Year:** 2025 Data Analysis")
+st.markdown("**Lead Data Architect:** Mahad Ashraf | **Year:** 2025 Data Analysis")
 
 # 1. Big Data Handling
 with st.spinner("Loading Big Data (Parquet Optimization)..."):
